@@ -1,0 +1,43 @@
+#splash {
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    width:100%;
+    background: linear-gradient(rgba(84, 0, 95, 1), rgba(230, 9, 139, 1));
+    z-index: 10;
+}
+
+.logo-white{
+  width: 80%;
+  padding-top: 40%;
+  padding-left: 20%;
+}
+
+.initial{
+  background-image: url(../img/city.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+
+.small-logo{
+  width: 15%;
+  margin-left: 40%;
+}
+
+.pink-logo{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+.first-btn{
+  margin-left: 55%;
+  background-color: transparent;
+  border: 1px solid white;
+}
+
+.second-btn{
+  background-color: transparent;
+  border: 1px solid white;
+}
